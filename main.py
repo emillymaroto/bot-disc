@@ -14,4 +14,4 @@ async def fica(ctx, member: discord.Member):
 
 
 bot.run(
-  'MTEwNTYzMjIwNTEwOTIwMzAwNA.GNX7xJ.75uPWL81iYx8vIqeSGvW7LBHWLpnfgvtR90Rgk')
+  ')
